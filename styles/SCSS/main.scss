@@ -9,6 +9,10 @@ $body-text-color:#361800;
 // navigation background color: highlight is lilac
 // footer: no color but text is brown
 
+#container{
+	
+}
+
 body{
 	background-color: $background-color;
 	font-family: 'Poiret One', cursive;
@@ -21,7 +25,7 @@ body{
 	color: $header-color;
 	font-weight: bold;
 	font-size: 70px;
-	text-align: scenter;
+	text-align: center;
 }
 
 #sub-title{
@@ -37,5 +41,9 @@ img{
 }
 .push{
 	background-color: $button-color;
+
+}
+
+#display{
 
 }
