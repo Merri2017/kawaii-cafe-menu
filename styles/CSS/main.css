@@ -1,0 +1,28 @@
+body {
+  background-color: #F5F5F5;
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+  color: #361800;
+  font-size: 20px; }
+
+#title {
+  font-family: 'Butterfly Kids', cursive;
+  color: #e4d3ec;
+  font-weight: bold;
+  font-size: 70px;
+  text-align: scenter; }
+
+#sub-title {
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center; }
+
+img {
+  height: 500px;
+  width: 500px; }
+
+.push {
+  background-color: #b5e6f0; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,41 @@
+$background-color: #F5F5F5;
+$button-color: #b5e6f0;
+$button-text-color :#ff92c4;
+$header-color : #e4d3ec;
+$body-text-color:#361800;
+
+// $header-font: font-family: 'Butterfly Kids', cursive;
+// navigation text color:  Pink
+// navigation background color: highlight is lilac
+// footer: no color but text is brown
+
+body{
+	background-color: $background-color;
+	font-family: 'Poiret One', cursive;
+	font-weight: bold;
+	color:$body-text-color;
+	font-size:20px;
+}
+#title{
+	font-family: 'Butterfly Kids', cursive;
+	color: $header-color;
+	font-weight: bold;
+	font-size: 70px;
+	text-align: scenter;
+}
+
+#sub-title{
+	font-family: 'Poiret One', cursive;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+img{
+	height:500px;
+	width: 500px;
+
+}
+.push{
+	background-color: $button-color;
+
+}
